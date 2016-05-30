@@ -2,7 +2,7 @@
 
 The repository contains workload patterns.
 
-## Contributing
+## Contribution
 
 1. Fork the project.
 2. Implement your idea.
