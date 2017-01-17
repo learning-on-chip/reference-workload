@@ -1,4 +1,4 @@
-# Workload Patterns
+# Reference Workload
 
 The repository contains workload patterns.
 
